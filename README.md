@@ -19,7 +19,7 @@
 
 ### Generate string session from below:
 
-[![GenerateString](https://img.shields.io/badge/RiZoeLXSpam-String-yellowgreen)](https://replit.com/@sahilsi552/QNR-ROBOT) ``Telethon``
+[![GenerateString](https://img.shields.io/badge/QnrOtus-String-yellowgreen)](https://replit.com/@sahilsi552/QNR-ROBOT) ``Telethon``
 
 # Deploy on heroku
 
