@@ -89,7 +89,7 @@ async def ping(e):
 
 # ALIVE
 
-RIZ_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/ba87c58f01a6fcb5ef512.jpg"
+RIZ_PIC = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/1ecd72d276cfffb731ee0.jpg"
 
 
 rizoel = "✧ 〄 ╔»⟦★𝗤𝗡𝗥★⟧«╗ SᑭᗩᗰᗰEᖇ ᗷOT 〄 ✧\n\n"
