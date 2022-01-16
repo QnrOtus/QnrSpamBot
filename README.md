@@ -34,5 +34,5 @@
 * [Support Group](https://t.me/QNRotusChat)
 
 # Credits
-* [RiZoeL Creator](https://github.com/QnrOtus)
+* [╔»⟦★𝗤𝗡𝗥丶𝗢𝗧𝗨𝗦★⟧«╗ Creator](https://github.com/QnrOtus)
 * [Lonami](https://github.com/LonamiWebs/) for [Telethon.](https://github.com/LonamiWebs/Telethon)
